@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02ec2f26-7908-49f1-a1d5-c1679593358a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/langchain_course2/2_agent_loop_raw_function_calling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/langchain_course2/3_raw_react_prompt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1_agent_loop_langchain_tool_calling.executor": "Run",
     "Python.2_agent_loop_raw_function_calling.executor": "Run",
+    "Python.3_raw_react_prompt.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.locally.executor": "Run",
     "Python.main.executor": "Run",
